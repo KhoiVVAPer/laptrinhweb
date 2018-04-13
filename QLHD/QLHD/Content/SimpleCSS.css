@@ -1,0 +1,15 @@
+﻿body {
+}
+th{
+    text-align:center;
+}
+td{
+    text-align:center;
+}
+h2{
+    font-family:'Arsenal';
+    color:darkgreen;
+    font-weight:bold;
+    margin-top:5px;
+    text-align:center;
+}
